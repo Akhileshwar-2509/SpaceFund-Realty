@@ -1,7 +1,5 @@
 # 🚀 Space Fund Realty (SFR) Analysis
 
-![Space Launch](https://c4.wallpaperflare.com/wallpaper/81/233/257/smoke-cape-canaveral-rocket-falcon-9-wallpaper-preview.jpg)
-
 ## 📌 Project Overview
 
 The **Space Fund Realty (SFR) Analysis** project leverages **Machine Learning, Python, and SQL** to analyze aerospace companies and their missions. The objective is to provide **data-driven insights** for investors, helping them make informed decisions by evaluating companies based on **missions, payload, launch costs, and technological advancements**. 
